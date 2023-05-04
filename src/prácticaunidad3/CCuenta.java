@@ -10,7 +10,8 @@ package prácticaunidad3;
  * @author ED05
  */
 public class CCuenta {
-
+    
+    int numero = 5;
 
     // Propiedades de la Clase Cuenta
     private String nombre;

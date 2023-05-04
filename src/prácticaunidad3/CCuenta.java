@@ -11,7 +11,7 @@ package prácticaunidad3;
  */
 public class CCuenta {
     
-    int numero = 5;
+    int numero = 0;
 
     // Propiedades de la Clase Cuenta
     private String nombre;
